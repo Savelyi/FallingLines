@@ -6,12 +6,12 @@ namespace Task
     class Program
     {
 
-        static int counter=0;
+        static int counter = 0;
         static void Method()
         {
 
             Console.WriteLine("Hello " + Thread.CurrentThread.Name);
-            Thread thread = new Thread(Method);
+            Thread thread = new Thread(new ThreadStart(Method));
             thread.Name = "Thread " + (++counter);
             Thread.Sleep(1000);
             thread.Start();
