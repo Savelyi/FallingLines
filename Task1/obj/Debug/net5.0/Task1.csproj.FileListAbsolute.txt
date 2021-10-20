@@ -1,0 +1,16 @@
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\bin\Debug\net5.0\Task1.exe
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\bin\Debug\net5.0\Task1.deps.json
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\bin\Debug\net5.0\Task1.runtimeconfig.json
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\bin\Debug\net5.0\Task1.runtimeconfig.dev.json
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\bin\Debug\net5.0\Task1.dll
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\bin\Debug\net5.0\ref\Task1.dll
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\bin\Debug\net5.0\Task1.pdb
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\obj\Debug\net5.0\Task1.csproj.AssemblyReference.cache
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\obj\Debug\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\obj\Debug\net5.0\Task1.AssemblyInfoInputs.cache
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\obj\Debug\net5.0\Task1.AssemblyInfo.cs
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\obj\Debug\net5.0\Task1.csproj.CoreCompileInputs.cache
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\obj\Debug\net5.0\Task1.dll
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\obj\Debug\net5.0\ref\Task1.dll
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\obj\Debug\net5.0\Task1.pdb
+D:\projects\C#\Education\OOP\HW\13\HW\HW\Task1\obj\Debug\net5.0\Task1.genruntimeconfig.cache
